@@ -1,0 +1,7 @@
+bin/
+build/
+i386-elf/
+include/
+lib/
+libexec/
+share/
